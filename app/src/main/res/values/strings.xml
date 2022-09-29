@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyFundamentalApp</string>
+    <string name="name_user">Name</string>
+    <string name="username">username</string>
+    <string name="company">Company Name</string>
+    <string name="avatar">Avatar</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="tfollowers">Followers</string>
+    <string name="tfollowing">Following</string>
+    <string name="tlocation">Location</string>
+    <string name="trepository">Repository</string>
+    <string name="repository">Repository</string>
+    <string name="main_title">Github\'s User</string>
+    <string name="search">Search</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="detail_app_name">User\'s Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="FavoritUser">Favorite User</string>
+    <string name="emptyUser">Empty User</string>
+    <string name="detail_username">Detail Username</string>
+    <string name="button_favorite">Button Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="theme_changer">Theme Changer</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
